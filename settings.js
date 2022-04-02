@@ -12,15 +12,15 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read pesan / message
+global.autoread = true // auto read pesan / message
 global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
 global.botname = "HELLO BOT" //namabot kalian
-global.ownername = "OWNER HELLO BOT" //nama kalian
-global.myweb ="https://apikey-bear3.herokuapp.com" //bebas asal jan hapus
+global.ownername = "PEMILIK BOT" //nama kalian
+global.myweb ="https://instagram.com/vanzz.ofc" //bebas asal jan hapus
 global.youtube = "https://m.youtube.com/channel/UCEDb6SkiPU0theI8J_WEZZA" //bebas asal jan hapus
 global.github = "https://github.com/abdibot" //bebas
 global.email = "vanzz.ofc@gmail.com" //bebas
