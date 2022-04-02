@@ -762,7 +762,7 @@ async function startalpha() {
                 'level': _0x1f438b[_0x35bbbb(0x53a, 0x469, 0x35f, 0x4a6, 0x4d7)]
             }),
             'printQRInTerminal': !![],
-            'browser': ['Bot By KingOfBear','Safari','1.0.0'],
+            'browser': ['Bot By vanzz','Safari','1.0.0'],
             'auth': state,
             'version': _0x1f438b[_0x442891(0x286, 0x12c, 0x2c0, 0x2ed, 0x49b)](_0x464363) || [-0x1 * -0x23d1 + 0x1f44 + -0x4313, -0x2533 * 0x1 + 0x68 * -0x3b + 0x45c7, 0x1ddb + 0x1d37 + -0x3b05]
         });
